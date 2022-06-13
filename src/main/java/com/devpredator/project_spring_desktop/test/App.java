@@ -1,4 +1,4 @@
-package com.devpredator.project_spring_desktop;
+package com.devpredator.project_spring_desktop.test;
 
 /**
  * Hello world!
